@@ -73,7 +73,7 @@
     "elasticsearch": "^14.1.0",
     "express": "^4.16.2",
     "express-cassandra": "2.2.2",
-    "glob": "^7.1.2",
+    "glob": "^9.0.0",
     "hashids": "^1.1.4",
     "keycloak-connect": "^4.0.0-beta.2",
     "lodash": "^4.17.5",
@@ -83,7 +83,7 @@
     "pouchdb": "^7.1.1",
     "pouchdb-find": "^7.1.1",
     "rxjs": "^6.2.1",
-    "typescript-ioc": "^1.2.4",
+    "typescript-ioc": "^3.0.0",
     "uuid": "^3.2.1"
   }
 }
