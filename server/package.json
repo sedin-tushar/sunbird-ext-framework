@@ -71,7 +71,7 @@
     "axios": "^0.18.0",
     "continuation-local-storage": "^3.2.1",
     "elasticsearch": "^14.1.0",
-    "express": "^4.16.2",
+    "express": "^4.21.2",
     "express-cassandra": "2.2.2",
     "glob": "^7.1.2",
     "hashids": "^1.1.4",
