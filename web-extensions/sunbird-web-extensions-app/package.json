@@ -10,7 +10,7 @@
     "e2e": "ng e2e"
   },
   "dependencies": {
-    "@angular/common": "^13.3.12",
+    "@angular/common": "^19.2.16",
     "@angular/core": "^13.3.12",
     "@angular/compiler": "^13.3.12",
     "@angular/animations": "^13.3.12",
